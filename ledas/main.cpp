@@ -2,7 +2,7 @@
 // author: Orlovskiy Gleb
 // problem: Пересечение отрезков
 // v6 лучшее решение
-// data: 17.05.25
+// date: 17.05.25
 
 #include<iostream>
 #include <cmath> 
