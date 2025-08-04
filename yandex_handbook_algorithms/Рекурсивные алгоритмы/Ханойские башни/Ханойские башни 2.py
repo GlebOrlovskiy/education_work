@@ -32,4 +32,5 @@ def f(n):
         elif moves < min_moves:
             min_moves = moves
     return min_moves
+  
 print(f(n))
